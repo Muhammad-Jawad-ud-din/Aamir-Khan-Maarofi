@@ -54,7 +54,7 @@
         </a>
         <!-- PHP -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="PHP"
-                        src="https://img.shields.io/badge/PHP-Beginner-lightgrey?style=for-the-badge&logo=php">
+                        src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
         </a>
         <!-- Laravel -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="PHP"

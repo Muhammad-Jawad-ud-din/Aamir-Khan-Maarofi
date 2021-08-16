@@ -13,6 +13,7 @@
                 <br>
                 「 Final Year Student, Computer Science @<b> University of Peshawar</b> 」
                 <br>
+                <br>
                 「 Computer Vision | Deep Learning | Raspberry Pi | Linux | Python 」
                 <br>
                 <br>
@@ -48,6 +49,7 @@
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="TensorFlow"
                         src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
         </a>
+        <br>
         <!-- C++ -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=for-the-badge&&logo=C%2B%2B&logoColor=white">
@@ -73,7 +75,9 @@
         <img alt="Aamir Khan Maarofi's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=Aamir-Khan-Maarofi&show_icons=true&theme=tokyonight" />
         <br>
-        <!-- Social Links -->
+    </p>
+
+    <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
         <a href="mailto:kaamir6600@gmail.com" target="_blank"><img alt="Gmail"
@@ -95,7 +99,6 @@
         <a href="https://stackoverflow.com/users/9241342/aamir-maarofi/" target="_blank"><img alt="StackOverflow"
                 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
         </a>
-    </p>
 </details>
 <br>
 

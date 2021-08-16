@@ -78,9 +78,11 @@
     </p>
 </details>
 <br>
-    <samp align="center">
+    <samp>
         <!-- Social Links -->
         <p>Find me on</p>
+    </samp>
+    <p align="center">
         <!-- Gmail -->
         <a href="mailto:kaamir6600@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -101,7 +103,7 @@
         <a href="https://stackoverflow.com/users/9241342/aamir-maarofi/" target="_blank"><img alt="StackOverflow"
                 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
         </a>
-    </samp>
+    </p>
 <!-- Footer -->
 <samp>
     <p align="center">

@@ -48,7 +48,7 @@
         <!-- TensorFlow -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="TensorFlow"
                         src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-        </a>
+        </a> 
         <br>
         <!-- C++ -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="C++"
@@ -68,21 +68,15 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
+    <summary> <samp>&#9776;「 Read More 」</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
         <img alt="Aamir Khan Maarofi's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=Aamir-Khan-Maarofi&show_icons=true&theme=tokyonight" />
         <br>
-    </p>
-</details>
-<br>
-    <samp>
         <!-- Social Links -->
-        <p align="center">「 Find me on 」</p>
-    </samp>
-    <p align="center">
+        <p>「 Find me on 」</p>
         <!-- Gmail -->
         <a href="mailto:kaamir6600@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -104,6 +98,9 @@
                 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
         </a>
     </p>
+</details>
+<br>
+
 <!-- Footer -->
 <samp>
     <p align="center">

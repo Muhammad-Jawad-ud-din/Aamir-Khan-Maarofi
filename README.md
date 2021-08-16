@@ -76,8 +76,6 @@
                 src="https://github-readme-stats.vercel.app/api?username=Aamir-Khan-Maarofi&show_icons=true&theme=tokyonight" />
         <br>
     </p>
-
-    
 </details>
 <br>
     <p align="center">

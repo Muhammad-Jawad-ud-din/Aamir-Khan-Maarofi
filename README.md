@@ -77,31 +77,31 @@
         <br>
     </p>
 
-    <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="mailto:kaamir6600@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/AamirMaarofi" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://twitter.com/khanmaarofi" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/aamir-khan-maarofi/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- StackOverflow -->
-        <a href="https://stackoverflow.com/users/9241342/aamir-maarofi/" target="_blank"><img alt="StackOverflow"
-                src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-        </a>
+    
 </details>
 <br>
-
+<!-- Social Links -->
+    <p>Find me on</p>
+    <!-- Gmail -->
+    <a href="mailto:kaamir6600@gmail.com" target="_blank"><img alt="Gmail"
+        src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/AamirMaarofi" target="_blank"><img alt="Facebook"
+        src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+    </a>
+    <!-- Instagram -->
+    <a href="https://twitter.com/khanmaarofi" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/aamir-khan-maarofi/" target="_blank"><img alt="Linkedin"
+        src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </a>
+    <!-- StackOverflow -->
+    <a href="https://stackoverflow.com/users/9241342/aamir-maarofi/" target="_blank"><img alt="StackOverflow"
+        src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    </a>
 <!-- Footer -->
 <samp>
     <p align="center">

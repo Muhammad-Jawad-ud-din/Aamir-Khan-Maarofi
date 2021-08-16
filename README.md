@@ -80,7 +80,7 @@
 <br>
     <samp>
         <!-- Social Links -->
-        <p>Find me on</p>
+        <p align="center">「 Find me on 」</p>
     </samp>
     <p align="center">
         <!-- Gmail -->

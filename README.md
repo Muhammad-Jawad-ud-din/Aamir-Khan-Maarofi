@@ -16,6 +16,8 @@
                 「 Computer Vision | Deep Learning | Raspberry Pi | Linux | Python 」
                 <br>
                 <br>
+                <br>
+                <br>
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->

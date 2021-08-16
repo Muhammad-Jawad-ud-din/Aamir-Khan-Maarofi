@@ -76,7 +76,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=Aamir-Khan-Maarofi&show_icons=true&theme=tokyonight" />
         <br>
         <!-- Social Links -->
-        <p>「 Find me on 」</p>
+        <p>「 <strong> Find me on </strong> 」</p>
         <!-- Gmail -->
         <a href="mailto:kaamir6600@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">

@@ -34,7 +34,7 @@
         </a>
         <!-- OpenCV -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="OpenCV"
-                        src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+                        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
         </a>
         <!-- Numpy -->
         <a href="https://github.com/Aamir-Khan-Maarofi?tab=repositories" target="_blank"><img alt="NumPy"
@@ -76,7 +76,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Aamir Khan Maarofi's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Aamir-Khan-Maarofi&show_icons=true&theme=tokyonight" />
+                src="https://github-readme-stats.vercel.app/api?username=Aamir-Khan-Maarofi&show_icons=true&count_private=true&theme=tokyonight" />
         <br>
         <!-- Social Links -->
         <p>「 <strong> Find me on </strong> 」</p>

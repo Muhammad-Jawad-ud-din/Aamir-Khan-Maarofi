@@ -1,3 +1,6 @@
+<!-- Profile Views -->
+![Profile views](https://gpvc.arturio.dev/Aamir-Khan-Maarofi?v=3)
+<br>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am

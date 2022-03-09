@@ -14,10 +14,10 @@
         <samp>
                 「 From Peshawar, Pakistan 」
                 <br>
-                「 Final Year Student, Computer Science @<b> University of Peshawar</b> 」
+                「 Python & Javascript Developer @<b> Fiverr</b> 」
                 <br>
                 <br>
-                「 Computer Vision | Deep Learning | Raspberry Pi | Linux | Python 」
+                「 APIs Development and Integration | Blockchain | Smart Contracts Development | Javascript Backend | Google Apps Script Development | Linux | Python Automation 」
                 <br>
                 <br>
                 <br>

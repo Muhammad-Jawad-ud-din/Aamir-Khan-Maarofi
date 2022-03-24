@@ -12,7 +12,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Peshawar, Pakistan 」
+                「 From Karachi, Pakistan 」
                 <br>
                 「 Python & Javascript Developer @<b> Fiverr</b> 」
                 <br>

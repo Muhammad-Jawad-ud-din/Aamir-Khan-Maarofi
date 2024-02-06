@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="">Aamir Khan Maarofi</a></b>
+                <b><a target="_blank" href="">Muhammad Jawad Ud Din</a></b>
         </samp>
 </h3>
 <br>
@@ -12,7 +12,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Karachi, Pakistan 」
+                「 From Peshawar, Pakistan 」
                 <br>
                 「 Python & Javascript Developer @<b> Fiverr</b> 」
                 <br>
